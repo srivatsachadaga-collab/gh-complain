@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 git_complain.py — Create a GitHub issue from a code snippet in one command.
 
